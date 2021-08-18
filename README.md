@@ -2,7 +2,7 @@
 
 Simple weather app, built using HTML & JavaScript.
 
-[👉 Click here to try out the weather app.](https://srikanta30.github.io/Weather-App/ "Indian Weather App")
+[👉 Click here to try out the weather app.](https://srikanta30.github.io/Indian-Weather-App/ "Indian Weather App")
 
 
 
