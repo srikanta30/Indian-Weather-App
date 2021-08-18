@@ -2,8 +2,8 @@
 
 Simple weather app, built using HTML & JavaScript.
 
-[👉 Click here to try out the weather app.](https://srikanta30.github.io/Weather-App/ "Weather App")
+[👉 Click here to try out the weather app.](https://srikanta30.github.io/Weather-App/ "Indian Weather App")
 
 
 
-![Weather App](https://github.com/srikanta30/Weather-App/blob/main/Weather-App.png "Weather App")
+![Indian Weather App](https://github.com/srikanta30/Weather-App/blob/main/Weather-App.png "Indian Weather App")
